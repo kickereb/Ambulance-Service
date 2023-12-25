@@ -23,9 +23,7 @@ routes on a map.
 ## Contributing
 Contributions to this project are welcome. Please fork the repository, make your changes, and
 submit a pull request for review.
-## License
-This project is licensed under the MIT License. See the LICENSE file in the repository for more
-details.
+
 ## Limitations
 - The path calculation does not currently account for real-time traffic or road conditions.
 - The application is tailored for Shivajinagar, Pune, but can be adapted for other locations.
