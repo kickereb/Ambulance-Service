@@ -8,6 +8,7 @@ decision-making in critical situations and operates independently of an active i
 - **Nearest Hospital Location**: Identifies the closest hospital to the user's location.
 - **Path Calculation**: Computes the shortest path using Dijkstra's algorithm.
 - **Emergency Response Optimization**: Facilitates faster ambulance dispatch and routing.
+![](https://github.com/kickereb/Ambulance-Service/blob/master/src/Slide11.jpg)
 ## Installation
 To run this project, you need Python and a C compiler like GCC. Follow these steps to set it up:
 ```
@@ -18,6 +19,7 @@ python -m pip install gmplot
 ## Usage
 Run the compiled C program to calculate paths and use Python's gmplot package for visualizing
 routes on a map.
+
 ## Contributing
 Contributions to this project are welcome. Please fork the repository, make your changes, and
 submit a pull request for review.
